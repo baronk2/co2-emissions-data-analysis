@@ -1,0 +1,13 @@
+name: co2-emissions
+title: co2-emissions
+username:
+account: baronk2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7765873
+bundleId: 6614613
+url: https://baronk2.shinyapps.io/co2-emissions/
+when: 1670571145.04191
+lastSyncTime: 1670571145.04194
+asMultiple: FALSE
+asStatic: FALSE
